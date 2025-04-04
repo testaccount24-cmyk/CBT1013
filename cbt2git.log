@@ -1,0 +1,5 @@
+2025-04-04 03:34:21.744161 - Received CBT.V508.FILE1013.PDS from FILE1013.XMI 
+2025-04-04 03:34:21.744797 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE1013.PDS, moved to PDS/$$$#DATE
+2025-04-04 03:34:21.744950 - Found @FIL1013.txt (text/plain) in CBT.V508.FILE1013.PDS, moved to PDS/@FIL1013
+2025-04-04 03:34:21.745123 - Found BLOG001.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document) in CBT.V508.FILE1013.PDS, moved to docs/BLOG001.docx
+2025-04-04 03:34:21.745256 - Found TEXT001.txt (text/plain) in CBT.V508.FILE1013.PDS, moved to PDS/TEXT001
